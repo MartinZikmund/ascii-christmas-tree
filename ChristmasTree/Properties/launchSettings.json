@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ChristmasTree": {
+      "commandName": "Project",
+      "commandLineArgs": "51"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
